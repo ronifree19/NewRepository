@@ -1,1 +1,2 @@
 This has no bugs
+Add new line
